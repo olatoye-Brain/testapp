@@ -1,0 +1,137 @@
+*{
+    padding: 0;
+    margin: 0
+}
+body{
+    background-color: #f5f5f5;
+}
+.promptFeedback{
+    width: 74.5vw;
+    min-height: 100%;
+    margin: 0px auto;
+    align-items: center;
+}
+
+.promptFeedback p{
+    text-align: center;
+    font-size:20px;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    background: #f7f7f7f7;
+    font-weight: 500;
+    word-spacing: 3px;
+    display: none;
+}
+.successPrompt p{
+    background-color: lightgreen !important;
+    color:#010101;
+    display: block;
+}
+.failPrompt p{
+    background-color: lightcoral !important;
+    color:#010101;
+    display: block;
+}
+.container{
+    width: 70vw;
+    min-height: 100%;
+    margin: 0px auto;
+    background-color: #fff;
+    border: 1px solid rgb(224, 224, 224); 
+    padding: 30px 30px;
+    align-items: center
+}
+
+.container p{
+    text-align: center;
+    font-size:24px;
+    padding: 20px 10px;
+    box-sizing: border-box;
+    background: #f7f7f7f7;
+    font-weight: 500;
+    word-spacing: 3px;
+}
+.container .note{
+    font-style: italic;
+    color:rgb(37, 37, 37);
+    font-size: 15px;
+    text-align: center;
+    color: midnightblue;
+    margin: 20px auto;
+}
+.container h2{
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+ul{
+    text-align: center;
+    widows: 100%;
+}
+li{
+    list-style: none;
+    display: inline;
+}
+li a{
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 2em;
+    color:#010101;
+    transition: 0.5s ease-out;
+}
+
+li a:hover{
+    color: dodgerblue;
+    transition: 0.5 ease-in
+}
+
+.hide{
+    display: none;
+}
+.show{
+    display: block;
+}
+body>p{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#time{
+    width: 70px;
+    height: 50px;
+    background-color: #010101;
+    color: #fff;
+    font-size: 40px;
+    font: bold;
+    text-align: center;
+    padding: 10px 15px;
+    margin: 20px auto; 
+    font-family: monospace;
+}
+.img{
+    text-align: center ;
+    background: #fff !important;
+    width: 100px !important;
+    margin: 20px auto;
+    height: inherit
+}
+p a{
+    text-decoration: none;
+    color:midnightblue;
+    font-size: 25px;
+}
+ #luckMsg{
+    color:midnightblue;
+    font-size: 25px;
+    margin: auto
+}
+.opacityON{
+    opacity: 0;
+    transition: opacity 2s ease-out;
+}
+
+.opacityOFF{
+    opacity: 1;
+    transition: opacity 2s ease-out;
+}

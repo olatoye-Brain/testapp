@@ -1,0 +1,67 @@
+[
+    {
+        "question": "Which one is correct team name in NBA?",
+        "options": [
+            "New York Bulls",
+            "Los Angeles Kings",
+            "Golden State Warriros",
+            "Huston Rocket"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Who founded Apple Inc?",
+        "options": [
+            "Larry Page",
+            "Elon Musk",
+            "Steeve Job",
+            "Mark Zuckerberg"
+        ],
+        "answer": "C"
+    },{
+        "question": "The first man to land on the Moon?",
+        "options": [
+            "Lucas Kate",
+            "Neil Amstrong",
+            "Nicholas Cage",
+            "Eddy Murphy"
+        ],
+        "answer": "B"
+    },{
+        "question": "The full meaning of EU is?",
+        "options": [
+            "English University",
+            "Emergency Unit",
+            "European Union",
+            "Emily Urai"
+        ],
+        "answer": "C"
+    },{
+        "question": "Who invented Electricity",
+        "options": [
+            "Michael Faraday",
+            "Benjamin Franklin",
+            "Nikolas Telsa",
+            "Thomas Edision"
+        ],
+        "answer": "B"
+    },{
+        "question": "Who is most renowned reveolutionary ",
+        "options": [
+            "Christopher Colombus",
+            "Lorenzo di Medici",
+            "Chi Guavera",
+            "Michael Angelo"
+        ],
+        "answer": "C"
+    },{
+        "question": "The Longest River is?",
+        "options": [
+            "River Niger",
+            "Manzanaress",
+            "Nile",
+            "North River"
+        ],
+        "answer": "C"
+    }
+]
